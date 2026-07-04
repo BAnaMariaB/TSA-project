@@ -1,0 +1,12 @@
+# Core analysis / modeling
+pandas
+numpy
+matplotlib
+statsmodels
+scipy
+prophet
+scikit-learn
+
+# Running the notebook
+notebook
+ipykernel
